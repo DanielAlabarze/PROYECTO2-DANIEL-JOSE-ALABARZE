@@ -1,0 +1,79 @@
+{
+    "cantidad": 9,
+    "inicio": 0,
+    "parametros": {},
+    "personajes":
+    [
+    {
+        "id": "1",
+        "nombre": "BATMAN",
+        "imagen": "./img/Batman.jpg",
+        "categoria": "Héroe",
+        "Descripción": "Batman (conocido inicialmente como Bat-Man) es un personaje creado por los estadounidenses Bob Kane y Bill Finger, y propiedad de DC Comics. Apareció por primera vez en la historia titulada «El caso del sindicato químico» de la revista Detective Comics N.º 27, lanzada por la editorial National Publications el 30/3/1939."
+    },
+
+    {
+        "id": "2",
+        "nombre": "JOKER",
+        "imagen": "./img/Joker.jpg",
+        "categoria": "Villano",
+        "Descripción": "Joker es catalogado como uno de los mejores personajes y villanos de las historietas, cuya popularidad le ha permitido aparecer en una variedad de productos y medios, entre los cuales se encuentran series televisivas, animaciones, largometrajes, videojuegos, juguetes, ropa y atracciones"
+       
+    },
+    {
+        "id": "3",
+        "nombre": "HARLEY QUINN",
+        "imagen": "./img/harleyQueen.jpg",
+        "categoria": "Villana",
+        "Descripción" : " Harley Quinn es un personaje ficticio creado por los estadounidenses Paul Dini y Bruce Timm para la editorial DC Comics. Quinn hizo su debut en el vigésimo-segundo episodio de Batman: la serie animada, «El favor del Joker», en septiembre de 1992 y se convirtió en una villana recurrente en la serie"
+    },
+    {
+        "id": "4",
+        "nombre": "MUJER MARAVILLA",
+        "imagen": "./img/Maravilla.jpg",
+        "categoria": "Heroína",
+        "Descripción": "Es una superheroína creada por William Moulton Marston para la editorial DC Comics. Es una princesa guerrera de las Amazonas, pueblo ficticio basado en el de las amazonas de la mitología griega. En su tierra natal es conocida como la princesa Diana de Temiscira pero fuera de esta utiliza la identidad secreta de Diana Prince."
+    },
+
+    {
+        "id": "5",
+        "nombre": "PINGUINO",
+        "imagen": "./img/Pinguino.jpg",
+        "categoria": "Villano",
+        "Descripción": "Originalmente conocido solo por su alias, el Pingüino apareció por primera vez en Gotham como un ladrón hábil, robando un valioso cuadro de un museo al ocultar la tela enrollada en el mango de su paraguas."
+    },
+
+    {
+        "id": "6",
+        "nombre": "SUPERMAN",
+        "imagen": "./img/Superman.jpg",
+        "categoria": "Héroe",
+        "Descripción": "Es un superhéroe que apareció por primera vez en los cómics estadounidenses publicados por DC Comics. El personaje fue creado por el escritor estadounidense Jerry Siegel y el artista canadiense Joe Shuster en 1933 cuando ambos se encontraban viviendo en Cleveland, Ohio."
+    },
+
+    {
+        "id": "7",
+        "nombre": "HOMBRE ARAÑA",
+        "imagen": "./img/hombreAraña.jpg",
+        "categoria": "Héroe",
+        "Descripción": "Spider-Man, traducido en ocasiones como el Hombre Araña, es un personaje creado por los estadounidenses Stan Lee y Steve Ditko, e introducido en el cómic Amazing Fantasy n.° 15, publicado por Marvel Comics en agosto de 1962. Se trata de un superhéroe que emplea sus habilidades sobrehumanas, reminiscentes de una araña, para combatir a otros supervillanos que persiguen fines siniestros"
+    },
+
+    {
+        "id": "8",
+        "nombre": "DOCTOR DOOM",
+        "imagen": "./img/doctorDoom.jpg",
+        "categoria": "Villano",
+        "Descripción": "El Doctor Doom (Dr. Victor Von Doom) es un supervillano ficticio que aparece en los cómics estadounidenses publicados por Marvel Comics. Creado por el escritor y editor Stan Lee y el artista/cocreador Jack Kirby en la Edad de Plata de los cómics el personaje hizo su debut en The Fantastic Four #5 (julio de 1962). El monarca de la nación ficticia Latveria, Doom, usualmente es representado como el archienemigo de Los 4 Fantásticos. Aunque sus principales adversarios fueron Los 4 Fantásticos"
+    },
+
+    {
+        "id": "9",
+        "nombre": "IRON MAN",
+        "imagen": "./img/IronMan.jpg",
+        "categoria": "Héroe",
+        "Descripción": "Iron Man (conocido en español como el Hombre de Hierro) es un superhéroe que aparece en los cómics estadounidenses publicados por Marvel Comics, nacido en Sofía, Bulgaria. El personaje fue creado por el escritor y editor Stan Lee en colaboración con el guionista Larry Lieber. Los artistas Don Heck y Jack Kirby fueron los encargados de su diseño. Este superhéroe hizo su primera aparición en Tales of Suspense #39 (marzo de 1963) y recibió su propio título en Iron Man #1, en mayo de 1968. En 1963, el personaje fundó el equipo de superhéroes Los Vengadores con Thor, Ant-Man, Avispa y Hul"
+    }
+],
+"total": 9
+}
